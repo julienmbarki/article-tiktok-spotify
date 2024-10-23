@@ -1,0 +1,82 @@
+{
+    "extra": {
+        "fatal_item_ids": [],
+        "logid": "20241023195912867BD8653762E15589CE",
+        "now": 1729713553000
+    },
+    "log_pb": {
+        "impr_id": "20241023195912867BD8653762E15589CE"
+    },
+    "musicInfo": {
+        "artist": {
+            "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d262abca2b3416ca1469c5aacdd855f5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=18443&refresh_token=869bac9c5062ffacecfdd8de86fe700c&x-expires=1729882800&x-signature=a1piqKNDvHy1w8UfVXB%2FNBvWkOg%3D&shp=a5d48078&shcp=81f88b70",
+            "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d262abca2b3416ca1469c5aacdd855f5~c5_720x720.jpeg?lk3s=a5d48078&nonce=8134&refresh_token=7721452b3d28ecebb7c7184959236968&x-expires=1729882800&x-signature=UjQ17gZlY%2FelL4EHADSeIe577oU%3D&shp=a5d48078&shcp=81f88b70",
+            "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d262abca2b3416ca1469c5aacdd855f5~c5_100x100.jpeg?lk3s=a5d48078&nonce=49066&refresh_token=34015619cf4b3c49588a459f2e0fe251&x-expires=1729882800&x-signature=BdUuGKcD7iYDPC04AfRzrhhutJ4%3D&shp=a5d48078&shcp=81f88b70",
+            "ftc": false,
+            "id": "6943924079342699526",
+            "nickname": "Tech N9ne",
+            "openFavorite": false,
+            "privateAccount": false,
+            "relation": 0,
+            "secUid": "MS4wLjABAAAASAT7Juu-InGYMTRBMNyVIQK-BSAtAqAFxlH2WQVc-kt0vvaVmaP10heCNM5weQm7",
+            "secret": false,
+            "signature": "Official TikTok of Tech N9ne",
+            "uniqueId": "therealtechn9ne"
+        },
+        "artists": [
+            {
+                "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d262abca2b3416ca1469c5aacdd855f5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=18443&refresh_token=869bac9c5062ffacecfdd8de86fe700c&x-expires=1729882800&x-signature=a1piqKNDvHy1w8UfVXB%2FNBvWkOg%3D&shp=a5d48078&shcp=81f88b70",
+                "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d262abca2b3416ca1469c5aacdd855f5~c5_720x720.jpeg?lk3s=a5d48078&nonce=8134&refresh_token=7721452b3d28ecebb7c7184959236968&x-expires=1729882800&x-signature=UjQ17gZlY%2FelL4EHADSeIe577oU%3D&shp=a5d48078&shcp=81f88b70",
+                "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d262abca2b3416ca1469c5aacdd855f5~c5_100x100.jpeg?lk3s=a5d48078&nonce=49066&refresh_token=34015619cf4b3c49588a459f2e0fe251&x-expires=1729882800&x-signature=BdUuGKcD7iYDPC04AfRzrhhutJ4%3D&shp=a5d48078&shcp=81f88b70",
+                "ftc": false,
+                "id": "6943924079342699526",
+                "nickname": "Tech N9ne",
+                "openFavorite": false,
+                "privateAccount": false,
+                "relation": 0,
+                "secUid": "MS4wLjABAAAASAT7Juu-InGYMTRBMNyVIQK-BSAtAqAFxlH2WQVc-kt0vvaVmaP10heCNM5weQm7",
+                "secret": false,
+                "signature": "Official TikTok of Tech N9ne",
+                "uniqueId": "therealtechn9ne"
+            },
+            {
+                "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3aa2339bbae5ad2fd63efbb512b910dd~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=12814&refresh_token=aed9bf76751eaec5cc68cb5c39b45853&x-expires=1729882800&x-signature=sBq0%2BtI8%2BTx8YRlvVUZvOCbu77A%3D&shp=a5d48078&shcp=81f88b70",
+                "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3aa2339bbae5ad2fd63efbb512b910dd~c5_720x720.jpeg?lk3s=a5d48078&nonce=23045&refresh_token=a5dde37c3e970ccd78a0c559e706decc&x-expires=1729882800&x-signature=V5Oab1dzOEqdRJFKGwB8O0iGwBc%3D&shp=a5d48078&shcp=81f88b70",
+                "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3aa2339bbae5ad2fd63efbb512b910dd~c5_100x100.jpeg?lk3s=a5d48078&nonce=21524&refresh_token=5e82ecc7425b406c4eb4c82f72d306e1&x-expires=1729882800&x-signature=kKKpKXohRMb2nl97DbUpb9fCaEY%3D&shp=a5d48078&shcp=81f88b70",
+                "ftc": false,
+                "id": "6949237263528592389",
+                "nickname": "Joey Cool",
+                "openFavorite": false,
+                "privateAccount": false,
+                "relation": 0,
+                "secUid": "MS4wLjABAAAAMnH08g0JbEOpt-M76WMvqdc4W5Qwov3riy01Gtv2PzES56NTKl5zqtaT3SBQLJPB",
+                "secret": false,
+                "signature": "official TikTok of Strange Music Inc. artist Joey Cool",
+                "uniqueId": "joeycoolkc"
+            }
+        ],
+        "music": {
+            "album": "Face Off - Dwayne Johnson",
+            "authorName": "Tech N9ne & Joey Cool",
+            "coverLarge": "https://p77-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/o8ea8AmF1GG4KxwI1fLl7IALGeAvIAFjfsAAhK.jpeg",
+            "coverMedium": "https://p77-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/o8ea8AmF1GG4KxwI1fLl7IALGeAvIAFjfsAAhK.jpeg",
+            "coverThumb": "https://p77-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/o8ea8AmF1GG4KxwI1fLl7IALGeAvIAFjfsAAhK.jpeg",
+            "duration": 60,
+            "id": "7016547803243022337",
+            "original": false,
+            "playUrl": "https://sf77-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oULlPria4KO2Gj7dInUfNmfFAvxeYwfL1gqAQG",
+            "private": false,
+            "title": "Face Off - Dwayne Johnson"
+        },
+        "stats": {
+            "videoCount": 838900
+        }
+    },
+    "shareMeta": {
+        "desc": "838.9k videos - Watch awesome short videos created with \u266c Face Off - Dwayne Johnson",
+        "title": "%!s(*wrapper.UserWrapper=<nil>) | \u266c Face Off - Dwayne Johnson | on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": ""
+}
