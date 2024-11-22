@@ -17,6 +17,8 @@ class SoundchartsClient(object):
         url = f"{self.base_url}{endpoint}"
 
         response = requests.get(url, headers=self.headers, params=params)
+
+        print(f"Status code: {response.status_code}")
         
         if response.status_code not in range(200,299):
             return{}
